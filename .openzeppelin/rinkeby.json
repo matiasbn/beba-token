@@ -4,9 +4,9 @@
   "proxies": {
     "beba-token/BebaToken": [
       {
-        "address": "0x254dffcd3277C0b1660F6d42EFbB754edaBAbC2B",
+        "address": "0x045CED2FC3B5BFF5a9aAb0384c79dC9c97fECFCf",
         "kind": "NonProxy",
-        "bytecodeHash": "50c0d6fa8073b1c446305217e338973a4e5963625d1b55f0e72530f8353eb96f"
+        "bytecodeHash": "488e1ae9e074ffbb97f0972ff9a5b9cfcc8cae151dea75f7d431e0935dc2f892"
       }
     ]
   },
