@@ -1,0 +1,12 @@
+{
+  "name": "beba-token",
+  "version": "1.0.0",
+  "description": "Beba token",
+  "main": "index.js",
+  "author": "Matías Barrios",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "openzeppelin-solidity": "^3.2.0"
+  }
+}
