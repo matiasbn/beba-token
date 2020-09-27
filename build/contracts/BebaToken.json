@@ -1154,6 +1154,12 @@
     "evmVersion": "petersburg"
   },
   "networks": {
+    "4": {
+      "links": {},
+      "events": {},
+      "address": "0xd5dda092E891d1a4Ca5C5c66946072753725F67e",
+      "updated_at": 1601241050107
+    },
     "1601231586527": {
       "links": {},
       "events": {},
