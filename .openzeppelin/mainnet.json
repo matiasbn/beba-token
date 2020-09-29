@@ -1,6 +1,14 @@
 {
   "contracts": {},
   "solidityLibs": {},
-  "proxies": {},
+  "proxies": {
+    "beba-token/BebaToken": [
+      {
+        "address": "0xf99a8552Db082a495F89f007f9bE397B358Aaa35",
+        "kind": "NonProxy",
+        "bytecodeHash": "50c0d6fa8073b1c446305217e338973a4e5963625d1b55f0e72530f8353eb96f"
+      }
+    ]
+  },
   "manifestVersion": "2.2"
 }

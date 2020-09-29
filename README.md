@@ -1,4 +1,5 @@
 # Beba token
+
 ```
 Nombre: Beba
 Abreviacion: Beb
@@ -8,9 +9,9 @@ Decimales: 18
 
 ## Deployment:
 
-Crear archivo ```.secret``` con mnemonico (12 palabras).
+Crear archivo `.secret` con mnemonico (12 palabras).
 
-Crear archivo ```.ìnfurakey``` con api key de Infura.
+Crear archivo `.ìnfurakey` con api key de Infura.
 
 ```
 npm install
@@ -19,14 +20,17 @@ npx oz deploy
 ```
 
 ### Rinkeby address
+
 ```
 0xd5dda092e891d1a4ca5c5c66946072753725f67e
 ```
+
 Acá está desplegado en [Etherscan](https://rinkeby.etherscan.io/token/0xd5dda092e891d1a4ca5c5c66946072753725f67e).
 
 ### Mainnet address
+
 ```
-https://etherscan.io/tx/0xcd28c6113949e4569cc97f69b5b33d5dfc78ca50b73ae563e39311b885810ad6
+0xf99a8552Db082a495F89f007f9bE397B358Aaa35
 ```
 
 ## Auditoría:
@@ -36,6 +40,7 @@ Beba-token fue heredada desde el contrato [ERC20PresetMinterPauser](https://docs
 ## Owner:
 
 Una vez desplegado el contrato, el owner para hacer Mint, Burn y Pause es:
+
 ```
 0x6545B034c8EC2ec78e1c2582b8eA42E409723E09
 ```
